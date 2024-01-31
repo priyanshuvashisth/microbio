@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/microbio/static/css/main.ed57aaab.css",
+    "main.js": "/microbio/static/js/main.731c1d9d.js",
+    "static/media/img3.jpg": "/microbio/static/media/img3.a37bbc67e9e39a48c1b9.jpg",
+    "static/media/img7.jpg": "/microbio/static/media/img7.a39bc6c50b349e31a6e1.jpg",
+    "static/media/img9.jpg": "/microbio/static/media/img9.0c27838b82b97d981638.jpg",
+    "static/media/img8.jpg": "/microbio/static/media/img8.e2e66e06d38001ba8212.jpg",
+    "static/media/IPDClogo.gif": "/microbio/static/media/IPDClogo.3434aef6149fa9c659f7.gif",
+    "static/media/Microbio.png": "/microbio/static/media/Microbio.dd0878e9e0d0a5946a9d.png",
+    "static/media/img1.jpg": "/microbio/static/media/img1.c9c50486ff19180e5bea.jpg",
+    "static/media/img5.jpg": "/microbio/static/media/img5.f97012beb5669453883e.jpg",
+    "static/media/img2.jpg": "/microbio/static/media/img2.85bb98043823d175aca0.jpg",
+    "static/media/img11.png": "/microbio/static/media/img11.989ad4e3374905c9808c.png",
+    "static/media/animate.png": "/microbio/static/media/animate.f20c4fa3c8043b6f3f12.png",
+    "static/media/Types-of-Sterilization.png": "/microbio/static/media/Types-of-Sterilization.25d40b38943a44d5ee3f.png",
+    "static/media/img4.jpg": "/microbio/static/media/img4.fdd7d3984bfd67109320.jpg",
+    "static/media/img6.jpg": "/microbio/static/media/img6.acf1e8d539743cea13af.jpg",
+    "static/media/img10.jpeg": "/microbio/static/media/img10.13396a2b444b201388e3.jpeg",
+    "index.html": "/microbio/index.html",
+    "main.ed57aaab.css.map": "/microbio/static/css/main.ed57aaab.css.map",
+    "main.731c1d9d.js.map": "/microbio/static/js/main.731c1d9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed57aaab.css",
+    "static/js/main.731c1d9d.js"
+  ]
+}
