@@ -1,0 +1,8 @@
+.define-box{
+    display: flex;
+    width: 80%;
+    margin-top: 20px;
+
+    background-color: #e2daeb;
+    padding: 0.5rem 1rem;
+}

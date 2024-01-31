@@ -1,0 +1,22 @@
+header{
+    background-color: #e2daeb;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+    height: 150px;
+    padding: 1rem;
+    gap: 1rem;
+}
+
+header p{
+    margin-top: 10px;
+    font-weight: 600;
+    text-align: center;
+    color: #1f1135;
+    font-size: 1.2rem;
+}
+
+header img{
+    height: 90%;
+}

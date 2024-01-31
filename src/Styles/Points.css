@@ -1,0 +1,9 @@
+.points-box{
+    margin-top: 10px;
+    padding: 1rem;
+    width: 80%;
+}
+
+.points-box li{
+    margin-left: 20px;
+}
